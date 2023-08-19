@@ -1,0 +1,22 @@
+{
+  "name": "stackblitz-starters-1t34iq",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@total-typescript/ts-reset": "^0.5.1",
+    "@types/react": "18.2.20",
+    "@types/react-dom": "18.2.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "zod": "^3.22.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
